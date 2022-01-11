@@ -52,7 +52,7 @@ time.sleep(5)
 pyautogui.click(x=144, y=130)
 time.sleep(2)
 #Preencher o destino
-pyautogui.write("famaiden@hotmail.com")
+pyautogui.write("Seu e-mail")
 pyautogui.press("tab") # Seleciona o email
 
 #time.sleep(1)
